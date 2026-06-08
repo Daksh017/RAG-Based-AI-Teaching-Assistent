@@ -1,0 +1,5 @@
+The concept of "Alter Column" is taught in Video #10.
+
+In this video, you'll find detailed information on altering columns and their datatypes in SQL, starting from approximately 0:59 seconds. You can expect to learn about how to modify the structure of your table's columns and understand the correct syntax for doing so.
+
+Would you like me to guide you further or direct you to a specific part of that video?
